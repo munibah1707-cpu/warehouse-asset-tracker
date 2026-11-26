@@ -1,0 +1,18 @@
+# Dependencies
+node_modules/
+client/node_modules/
+server/node_modules/
+
+# Build outputs
+client/dist/
+
+# SQLite database & uploaded test images (keep the uploads folder itself)
+server/*.db
+server/*.db-journal
+server/uploads/*
+!server/uploads/.gitkeep
+
+# Logs & environment files
+*.log
+.env
+.DS_Store
