@@ -46,9 +46,14 @@ While warehouse staff log items through the web UI (which defaults to `source=ma
 
 ### Photo Preview & Validation
 ![Photo Preview](screenshots/photo-preview.png)
+
 ### Validation & Error States
 ![Client Validation Error](screenshots/validation-empty.png)
 ![Duplicate Asset ID Error](screenshots/validation-duplicate.png)
+
+### Automation API Integration (`source=automated`)
+![Automation API Request](screenshots/automation-request.png)
+![Automated Entry in Inventory](screenshots/automation-list.png)
 
 
 ### Asset Detail View (Local Time)
