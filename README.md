@@ -17,7 +17,7 @@ cd server
 npm install
 npm start
 ```
-The API server starts on `http://0.0.0` (accessible locally at `http://localhost:5000`).
+The API server starts on `http://0.0.0` (accessible locally at `http://0.0.0:5000`).
 
 ### 2. Start the Frontend Client
 ```bash
